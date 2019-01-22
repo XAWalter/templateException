@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\dc\desktop\templateexception\main.cpp(117): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  templateException.vcxproj -> C:\Users\dc\Desktop\templateException\Debug\templateException.exe
